@@ -2,3 +2,16 @@ personal details:
     venkatesh
     suddapalli
     student
+
+education:
+    suddapalli
+    vejendla
+    schooling
+
+profession:
+    student
+    jmj college
+    vadlamudi
+    by bus
+    by car
+
