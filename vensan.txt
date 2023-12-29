@@ -2,3 +2,8 @@ personal details:
     venkatesh
     suddapalli
     student
+
+education:
+    suddapalli
+    vejendla
+    schooling
