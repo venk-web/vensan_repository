@@ -7,3 +7,8 @@ education:
     suddapalli
     vejendla
     schooling
+
+profession:
+    student
+    jmj college
+    vadlamudi
