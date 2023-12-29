@@ -12,3 +12,4 @@ profession:
     student
     jmj college
     vadlamudi
+    by car
