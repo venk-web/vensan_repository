@@ -12,4 +12,6 @@ profession:
     student
     jmj college
     vadlamudi
+    by bus
     by car
+
